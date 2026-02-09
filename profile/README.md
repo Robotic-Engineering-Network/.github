@@ -1,3 +1,5 @@
 ## Hi there 👋
 
-We are REN
+We are REN - Robotic Engineering Network
+
+We want to build cool Robots
